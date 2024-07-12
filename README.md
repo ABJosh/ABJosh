@@ -1,6 +1,6 @@
 <!-- markdownlint-disable MD033 MD041 -->
 <p align="center">
-  <h3 align="center">Josh Abril</h3>
+  <h3 align="center" style="color: #0BBE0F;">Josh Abril</h3>
 </p>
 
 <p align="center">
