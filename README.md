@@ -1,6 +1,6 @@
 <!-- markdownlint-disable MD033 MD041 -->
 <p align="center">
-  <h3 align="center" style="color: #0BBE0FFF;">Josh Abril</h3>
+  <h3 align="center" style="color: #0BBE0FFF">Josh Abril</h3>
 </p>
 
 <p align="center">
@@ -9,6 +9,11 @@
   </a>
 </p>
 <!-- markdownlint-enable MD033 MD041 -->
+
+<p align="center">
+  <img align="center" src='animatedkitty.svg' width='300'/>
+</p>
+
 
 
 
