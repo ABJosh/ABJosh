@@ -1,12 +1,16 @@
-<!-- markdownlint-disable MD033 MD041 --> 
+<!-- markdownlint-disable MD033 MD041 -->
 <p align="center">
   <h3 align="center">⌨️ Readme Typing SVG</h3>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Type+messages+everywhere!;Add+a+bio+to+your+profile!;Add+a+description+to+your+repo!;Make+your+readme+stand+out!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=0BBE0F&random=false&width=435&lines=Hi%2C+I'm+ABJosh+---%3E;I'm+an+aspiring+Web+Developer;Let's+help+one+another!" alt="Typing SVG">
+  </a>
 </p>
-<!-- markdownlint-enable MD033 -->
+<!-- markdownlint-enable MD033 MD041 -->
+
+
 
 
 
