@@ -1,15 +1,9 @@
-<!-- markdownlint-disable MD033 MD041 -->
-<p align="center">
-  <h3 align="center" style="color: #0BBE0FFF">Josh Abril</h3>
-</p>
-
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=0BBE0F&random=false&width=435&lines=Hi%2C+I'm+ABJosh+---%3E;I'm+an+aspiring+Web+Developer;Let's+help+one+another!" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=8000&pause=1000&color=F72C6B&random=false&width=500&lines=Hi!+I'm+Josh+Abril;Aspiring+front-end+developer;Newby+in+coding;The+only+failure+is+giving+up" alt="Typing SVG">
   </a>
 </p>
-<!-- markdownlint-enable MD033 MD041 -->
-
+<br>
 <p align="center">
   <img align="center" src='animatedkitty.svg' width='300'/>
 </p>
